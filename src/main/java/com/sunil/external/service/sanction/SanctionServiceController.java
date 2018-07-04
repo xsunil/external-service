@@ -12,7 +12,7 @@ import io.swagger.annotations.Api;
 
 @RestController
 //@EnableAutoConfiguration
-@Api(tags="Banker Services",produces = "application/json")
+@Api(tags="Sanction Services",produces = "application/json")
 public class SanctionServiceController extends  SanctionServiceControllerBase{
 
 
